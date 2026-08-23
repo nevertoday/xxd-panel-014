@@ -44,11 +44,25 @@ If an unrelated photograph could replace the source without materially changing 
 - **Real material:** soft diffuse light clearly reveals fibre, crease, cut edge, thickness, layer separation, and natural shadow.
 - **Paper typography:** one short word or title becomes readable spatial structure by wrapping, extending, hugging, supporting, interweaving, overlapping, or suspending.
 
-## Samples · Coming soon
+## Samples · From X
 
-The repository reserves [`assets/examples/`](assets/examples/) for future work. Only finished 014 artwork verified by the project owner will be added; no post or image from another style is used as a placeholder.
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090118050637090988) · 2026-08-19<br>
+> GPT2 x 折纸 x 转换 x 美学提示词 x VOL.014
 
-Future samples will demonstrate 014's adaptability. Their subjects, metaphors, palette, copy, and canvas ratios will never become generation references or defaults.
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 014 sample 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 014 sample 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 014 sample 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 014 sample 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988">View the original post and full prompt →</a></p>
+
+These samples demonstrate the 014 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
 ## Four outputs, one paper-sculpture logic
 
