@@ -42,7 +42,18 @@ Composition follows the photograph's centre of gravity, contour trajectory, mass
 
 These samples demonstrate the 014 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
-## Why it exists
+<!-- xxd-panel-benefit:start -->
+## Quick fit check: is XXD Panel 014 right for you?
+
+| What you need to know | What this style gives you |
+|---|---|
+| **What you will get** | Rebuild the photograph as tactile contemporary folded-paper sculpture |
+| **Recognizable signature** | FOLD AND FACET · LAYER AND NEST · SOURCE-LED WEIGHT · REAL PAPER FIBRE · READABLE PAPER TYPE |
+| **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
+| **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
+<!-- xxd-panel-benefit:end -->
+
+## How it turns your source into a distinctive result
 
 An “origami look” easily collapses into low-poly CG, children's craft, plastic 3D, average symmetry, or stock cranes and flowers that could be attached to any photograph.
 
@@ -54,7 +65,7 @@ lock identity / silhouette / pose / relation → read weight, mass, and action d
 
 If an unrelated photograph could replace the source without materially changing the sculpture silhouette, fold map, weight distribution, paper palette, auxiliary pieces, or title relation, the result is not 014.
 
-## The 014 visual contract
+## What makes the finished style recognizable
 
 - **Source identity:** at least three specific cues preserve silhouette, pose, action, structure, scale, negative shape, and relation.
 - **Plausible paper construction:** folds, cut facets, layers, nests, interweaving, occlusion, and joins feel physically buildable rather than smooth low-poly CG.
