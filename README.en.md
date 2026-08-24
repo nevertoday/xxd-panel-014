@@ -22,6 +22,26 @@ XXD Panel 014 is an image-generation Skill for Codex and compatible agents. It p
 
 Composition follows the photograph's centre of gravity, contour trajectory, mass ratio, and action direction instead of a fixed centre. Source colour becomes a coordinated vivid paper group; soft diffuse light makes fibre, creases, cut edges, thickness, layer separation, and natural shadows physically convincing. The main title is folded or cut paper and participates in the spatial construction.
 
+## Samples · From X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090118050637090988) · 2026-08-19<br>
+> GPT2 x 折纸 x 转换 x 美学提示词 x VOL.014
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 014 sample 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 014 sample 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 014 sample 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 014 sample 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988">View the original post and full prompt →</a></p>
+
+These samples demonstrate the 014 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
 ## Why it exists
 
 An “origami look” easily collapses into low-poly CG, children's craft, plastic 3D, average symmetry, or stock cranes and flowers that could be attached to any photograph.
@@ -43,26 +63,6 @@ If an unrelated photograph could replace the source without materially changing 
 - **Source-derived paper palette:** same-hue value steps, neighbouring hues, and only a small contrast distinguish facets and depth on an ivory, light-grey, pastel, or compatible pale ground.
 - **Real material:** soft diffuse light clearly reveals fibre, crease, cut edge, thickness, layer separation, and natural shadow.
 - **Paper typography:** one short word or title becomes readable spatial structure by wrapping, extending, hugging, supporting, interweaving, overlapping, or suspending.
-
-## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090118050637090988) · 2026-08-19<br>
-> GPT2 x 折纸 x 转换 x 美学提示词 x VOL.014
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 014 sample 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 014 sample 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 014 sample 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 014 sample 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988">View the original post and full prompt →</a></p>
-
-These samples demonstrate the 014 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
 ## The original brief is authoritative
 

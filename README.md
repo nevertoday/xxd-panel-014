@@ -22,6 +22,26 @@ XXD Panel 014 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 
 构图跟随源图的视觉重心、轮廓走势、体量比例与动作方向，而不是固定居中。源图色彩被转化为协调鲜明的纸张色组；柔和漫射光让纸纤维、折痕、切边、厚度、层间距离和自然阴影都真实成立。主文字同样由折纸或切纸构成，并成为空间结构的一部分。
 
+## 样张 · 来自 X
+
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090118050637090988) · 2026-08-19<br>
+> GPT2 x 折纸 x 转换 x 美学提示词 x VOL.014
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 014 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 014 样张 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 014 样张 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 014 样张 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 014 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
+
 ## 为什么需要 014
 
 普通“折纸风”很容易退化成低多边形 CG、儿童手工、塑料 3D、平均对称，或把纸鹤、纸花等通用符号套在任何照片上。
@@ -43,26 +63,6 @@ XXD Panel 014 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 - **源图纸张色组：** 同色深浅、邻近色与极少量对比色区分折面和空间，背景保持米白、浅灰、柔和粉彩或相容浅色。
 - **真实材质：** 柔和漫射光清楚表现纸纤维、折痕、切边、厚度、层间分离和自然阴影。
 - **纸艺文字：** 一个短词或标题通过环绕、延伸、贴合、承托、穿插、叠压或悬置成为可读空间结构。
-
-## 样张 · 来自 X
-
-> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090118050637090988) · 2026-08-19<br>
-> GPT2 x 折纸 x 转换 x 美学提示词 x VOL.014
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 014 样张 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 014 样张 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 014 样张 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 014 样张 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988">查看原推文与完整提示词 →</a></p>
-
-这些样张用于展示 014 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 原始提示词优先，而不是二次导演
 

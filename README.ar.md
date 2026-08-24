@@ -24,6 +24,26 @@ XXD Panel 014 مهارة لتوليد الصور مخصّصة لـ Codex وال�
 
 يتبع التكوين مركز ثقل الصورة ومسار محيطها ونسبة كتلها واتجاه حركتها بدلاً من مركز ثابت. تتحول ألوان المصدر إلى مجموعة ورقية منسجمة وحية، ويُظهر الضوء المنتشر الناعم الألياف والطيات والحواف المقطوعة والسماكة والفصل بين الطبقات والظلال الطبيعية. ويُبنى العنوان الرئيسي من ورق مطوي أو مقصوص ليصبح جزءاً من البنية المكانية.
 
+## النماذج · من X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090118050637090988) · 2026-08-19<br>
+> GPT2 x 折纸 x 转换 x 美学提示词 x VOL.014
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 014 نموذج 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 014 نموذج 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 014 نموذج 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 014 نموذج 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
+
+تعرض هذه النماذج الدافع الجمالي للإصدار 014 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
+
 ## لماذا توجد 014؟
 
 يتحول «أسلوب الأوريغامي» بسهولة إلى CG منخفض المضلعات أو عمل أطفال أو بلاستيك ثلاثي الأبعاد أو تناظر متوسط أو طيور وزهور ورقية عامة تصلح لأي صورة.
@@ -45,26 +65,6 @@ XXD Panel 014 مهارة لتوليد الصور مخصّصة لـ Codex وال�
 - **مجموعة ورق من المصدر:** تفصل درجات اللون الواحد والألوان المتجاورة ولمسة تباين صغيرة الأسطح والعمق على خلفية فاتحة وفراغ واسع.
 - **مادة حقيقية:** يكشف الضوء المنتشر الناعم ألياف الورق والطية والحافة المقطوعة والسماكة والفصل بين الطبقات والظل الطبيعي.
 - **حروف ورقية:** يصبح عنوان قصير بنية مكانية مقروءة عبر الالتفاف أو الامتداد على محور أو ملامسة المحيط أو الإسناد أو التداخل أو التراكب أو التعليق.
-
-## النماذج · من X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090118050637090988) · 2026-08-19<br>
-> GPT2 x 折纸 x 转换 x 美学提示词 x VOL.014
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 014 نموذج 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 014 نموذج 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 014 نموذج 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 014 نموذج 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
-
-تعرض هذه النماذج الدافع الجمالي للإصدار 014 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
 
 ## الموجّه الأصلي هو المرجع الجمالي الوحيد
 

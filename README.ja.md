@@ -22,6 +22,26 @@ XXD Panel 014 は、Codex と互換 Agent のための画像生成 Skill です�
 
 構図は固定中央ではなく、写真の重心、輪郭の流れ、量感比、動作方向に従います。元写真の色は調和した鮮明な紙色群へ変換され、柔らかな拡散光が繊維、折り目、切り口、厚み、層間距離、自然な影を示します。主文字も折り紙または切り紙で作られ、空間構造に参加します。
 
+## 作例 · X より
+
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090118050637090988) · 2026-08-19<br>
+> GPT2 x 折纸 x 转换 x 美学提示词 x VOL.014
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 014 作例 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 014 作例 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 014 作例 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 014 作例 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988">元の投稿と完全なプロンプトを見る →</a></p>
+
+これらの作例は 014 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
+
 ## なぜ 014 が必要なのか
 
 一般的な「折り紙風」は、ローポリ CG、子どもの工作、プラスチック 3D、均等対称、またはどの写真にも付けられる紙鶴や紙花へ崩れがちです。
@@ -43,26 +63,6 @@ XXD Panel 014 は、Codex と互換 Agent のための画像生成 Skill です�
 - **元写真由来の紙色群：** 同色の明暗、近接色、少量の対比色で折面と奥行きを分け、淡い背景と広い余白を保ちます。
 - **実在する素材：** 柔らかな拡散光で紙繊維、折り目、切り口、厚み、層間分離、自然な影を明確にします。
 - **紙文字：** 短い語や題が環状、軸方向、輪郭沿い、支持、交差、重なり、浮遊によって読める空間構造になります。
-
-## 作例 · X より
-
-> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090118050637090988) · 2026-08-19<br>
-> GPT2 x 折纸 x 转换 x 美学提示词 x VOL.014
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 014 作例 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 014 作例 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 014 作例 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 014 作例 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988">元の投稿と完全なプロンプトを見る →</a></p>
-
-これらの作例は 014 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
 
 ## 原文プロンプトを唯一の美的基準にする
 
