@@ -1,4 +1,4 @@
 interface:
   display_name: "/xxd-panel-014"
-  short_description: "Create contemporary folded-paper sculptures."
-  default_prompt: "Use $xxd-panel-014 to rebuild my photo as a source-bound contemporary folded-paper sculpture and paper-cut collage with plausible folds, facets, layers, nesting, source-led composition, real matte fibre and edge thickness, soft natural shadows, and readable paper-structure typography; ask first for modes and copy or locale preferences."
+  short_description: "Create Panel 014 from its original style brief."
+  default_prompt: "Use $xxd-panel-014; treat its bundled original style brief as the sole aesthetic authority, and ask only for unresolved mode, size, text mode, locale, or wallpaper settings."
