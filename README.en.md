@@ -16,16 +16,7 @@
 
 </div>
 
-> FOLD AND FACET · LAYER AND NEST · SOURCE-LED WEIGHT · REAL PAPER FIBRE · READABLE PAPER TYPE
-
-XXD Panel 014 is an image-generation Skill for Codex and compatible agents. It preserves identity, silhouette, pose, and narrative relation, then rebuilds the source as recognisable contemporary paper sculpture through folds, cut facets, layering, nesting, occlusion, and joined paper pieces.
-
-Composition follows the photograph's centre of gravity, contour trajectory, mass ratio, and action direction instead of a fixed centre. Source colour becomes a coordinated vivid paper group; soft diffuse light makes fibre, creases, cut edges, thickness, layer separation, and natural shadows physically convincing. The main title is folded or cut paper and participates in the spatial construction.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090118050637090988) · 2026-08-19<br>
-> GPT2 x 折纸 x 转换 x 美学提示词 x VOL.014
 
 <table>
   <tr>
@@ -38,9 +29,18 @@ Composition follows the photograph's centre of gravity, contour trajectory, mass
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090118050637090988) · 2026-08-19<br>
+> GPT2 x 折纸 x 转换 x 美学提示词 x VOL.014
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 014 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+> FOLD AND FACET · LAYER AND NEST · SOURCE-LED WEIGHT · REAL PAPER FIBRE · READABLE PAPER TYPE
+
+XXD Panel 014 is an image-generation Skill for Codex and compatible agents. It preserves identity, silhouette, pose, and narrative relation, then rebuilds the source as recognisable contemporary paper sculpture through folds, cut facets, layering, nesting, occlusion, and joined paper pieces.
+
+Composition follows the photograph's centre of gravity, contour trajectory, mass ratio, and action direction instead of a fixed centre. Source colour becomes a coordinated vivid paper group; soft diffuse light makes fibre, creases, cut edges, thickness, layer separation, and natural shadows physically convincing. The main title is folded or cut paper and participates in the spatial construction.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 014 right for you?
