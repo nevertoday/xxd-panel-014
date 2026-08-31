@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 014
+# 🦁 XXD Panel 014｜纸艺浮雕志
 
 ### 把照片重构成真实可感的当代折纸雕塑
 

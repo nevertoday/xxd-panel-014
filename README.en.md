@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 014
+# 🦁 XXD Panel 014｜Paper Relief Journal
 
 ### Rebuild the photograph as tactile contemporary folded-paper sculpture
 

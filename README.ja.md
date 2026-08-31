@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 014
+# 🦁 XXD Panel 014｜ペーパーレリーフ手帳
 
 ### 写真を、触れられそうな現代折り紙彫刻へ
 

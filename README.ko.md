@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 014
+# 🦁 XXD Panel 014｜종이 부조 저널
 
 ### 사진을 손으로 만든 듯한 현대 종이 조각으로 재구성합니다
 
