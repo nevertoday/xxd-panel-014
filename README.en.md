@@ -86,6 +86,15 @@ You do not need to review every option first. Send your Agent an image and say:
 The samples above can help you confirm the visual direction. When you are ready, continue to [Get started](#get-started). Full modes, sizes, and parameters remain available in the expandable reference.
 <!-- xxd-human-intro:end -->
 
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
 ## Original prompt · Five languages
 
 [Open the unified translation directory](references/original-prompt/): [Simplified Chinese original](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -102,28 +111,6 @@ The Simplified Chinese file preserves Xiaoxiaodong's wording verbatim and remain
 | **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
 | **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
 <!-- xxd-panel-benefit:end -->
-
-## How it turns your source into a distinctive result
-
-An “origami look” easily collapses into low-poly CG, children's craft, plastic 3D, average symmetry, or stock cranes and flowers that could be attached to any photograph.
-
-014 reverses that logic:
-
-```text
-lock identity / silhouette / pose / relation → read weight, mass, and action direction → build a source-specific fold map → simplify with folded planes, cut edges, layers, nesting, and negative space → organise one focus through hierarchy, axes, triangular stability, diagonal tension, and occlusion → translate a source-derived paper palette → make readable title type part of the paper structure
-```
-
-If an unrelated photograph could replace the source without materially changing the sculpture silhouette, fold map, weight distribution, paper palette, auxiliary pieces, or title relation, the result is not 014.
-
-## What makes the finished style recognizable
-
-- **Source identity:** at least three specific cues preserve silhouette, pose, action, structure, scale, negative shape, and relation.
-- **Plausible paper construction:** folds, cut facets, layers, nests, interweaving, occlusion, and joins feel physically buildable rather than smooth low-poly CG.
-- **Source-led composition:** weight, contour, mass, and direction determine offset, crop, extension, or suspension; no mechanical centring or average symmetry.
-- **One focus:** hierarchy, scale contrast, axes, triangular stability, diagonal tension, and positive/negative space support one dominant sculpture; auxiliaries never compete.
-- **Source-derived paper palette:** same-hue value steps, neighbouring hues, and only a small contrast distinguish facets and depth on an ivory, light-grey, pastel, or compatible pale ground.
-- **Real material:** soft diffuse light clearly reveals fibre, crease, cut edge, thickness, layer separation, and natural shadow.
-- **Paper typography:** one short word or title becomes readable spatial structure by wrapping, extending, hugging, supporting, interweaving, overlapping, or suspending.
 
 <details>
 <summary><strong>Full capabilities and parameters (open when needed)</strong></summary>
