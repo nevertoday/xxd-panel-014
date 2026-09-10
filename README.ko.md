@@ -23,48 +23,33 @@
 
 ## 16:9 좌우 구성 예시
 
+서로 다른 원본 네 장으로 만든 16:9 완성 캔버스. 왼쪽은 실사, 오른쪽은 이 Panel 디자인, 정확히 50:50.
+
 <table>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 014 예시 5"></td>
-    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 014 예시 6"></td>
+    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 014 Sample 5"></td>
+    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 014 Sample 6"></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 014 예시 7"></td>
-    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 014 예시 8"></td>
+    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 014 Sample 7"></td>
+    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 014 Sample 8"></td>
   </tr>
 </table>
 
 ## 3:4 상하 구성 예시
 
-위 16:9 예시와 같은 네 개의 독립 소스를 완전한 3:4 상하 캔버스로 다시 생성했습니다. 위쪽은 현실 사진을 유지하고 아래쪽은 Panel 014의 원본 프롬프트에 따라 재구성합니다. 영어 문구는 각 사진의 내용·분위기·함의에서만 생성했으며 모든 결과를 개별 검수했습니다.
+16:9 세트와 다른 원본 네 장으로 만든 3:4 상하 완성 캔버스. 위는 실사, 아래는 디자인, 정확히 50:50.
 
 <table>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 014 추가 상하 예시 1"></td>
-    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 014 추가 상하 예시 2"></td>
+    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 014 additional top-bottom sample 1"></td>
+    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 014 additional top-bottom sample 2"></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 014 추가 상하 예시 3"></td>
-    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 014 추가 상하 예시 4"></td>
+    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 014 additional top-bottom sample 3"></td>
+    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 014 additional top-bottom sample 4"></td>
   </tr>
 </table>
-
-> 추가 예시: 천샹 포스터 그룹에서 해당 천샹 포스터 그룹의 네 장을 파일명 순서로 사용하고, 이 Panel의 원본 브리프에 따라 16:9 좌우 구성과 영어 자동 생성 문구로 제작했습니다.
-
-> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090118050637090988) · 2026-08-19<br>
-> GPT2 x 折纸 x 转换 x 美学提示词 x VOL.014
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988">원문 게시물과 전체 프롬프트 보기 →</a></p>
-
-이 예시는 014의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
-
-> 접기와 절단면 · 겹침과 끼움 · 원본의 무게중심 · 실제 종이 섬유 · 읽히는 종이 문자
-
-XXD Panel 014는 Codex와 호환 에이전트를 위한 이미지 생성 Skill입니다. 정체성, 실루엣, 자세와 서사 관계를 보존한 뒤 접기, 절단면, 겹침, 끼움, 가림, 종이 조각의 결합으로 원본이 한눈에 읽히는 현대 종이 조각을 만듭니다.
-
-구도는 고정 중앙이 아니라 사진의 무게중심, 윤곽 흐름, 질량 비율과 동작 방향을 따릅니다. 원본 색은 조화롭고 선명한 종이 색군으로 바뀌며, 부드러운 확산광이 섬유, 접힌 자국, 절단면, 두께, 층 간격과 자연 그림자를 실제처럼 보여 줍니다. 주 제목도 접거나 오린 종이로 만들어 공간 구조에 참여합니다.
-
-<!-- xxd-human-intro:start -->
 ## 적합한 상황과 해결하는 문제
 
 사진을 포스터, 표지, 소셜 콘텐츠 또는 배경화면으로 사용할 때 핵심 과제는 단순히 화풍을 바꾸는 것이 아닙니다. 다시 디자인한 뒤에도 대상의 정체성, 중요한 관계, 분위기와 식별성을 유지해야 합니다.

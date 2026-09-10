@@ -23,6 +23,8 @@
 
 ## 16:9 Left–Right Samples
 
+Four independent sources on complete 16:9 canvases: reality left, this Panel's design right, exact 50:50. English copy is generated from each photograph.
+
 <table>
   <tr>
     <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 014 Sample 5"></td>
@@ -36,7 +38,7 @@
 
 ## 3:4 Top–Bottom Samples
 
-These four works reuse the same four independent sources as the 16:9 set above, now regenerated as complete 3:4 top–bottom canvases. The original photograph remains above; the lower design follows Panel 014's original brief. English copy is generated only from each photograph's content, mood, or implication, and every result was individually reviewed.
+Four further independent sources, different from the 16:9 set, regenerated as complete 3:4 top–bottom canvases. The original photograph remains above; the lower design follows this Panel's original brief.
 
 <table>
   <tr>
@@ -48,23 +50,6 @@ These four works reuse the same four independent sources as the 16:9 set above, 
     <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 014 additional top-bottom sample 4"></td>
   </tr>
 </table>
-
-> New sample: the four photos from the corresponding Chenxiang poster group were used in filename order and rendered with this Panel's original brief as a 16:9 left-right composition with original-brief-generated English copy.
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090118050637090988) · 2026-08-19<br>
-> GPT2 x 折纸 x 转换 x 美学提示词 x VOL.014
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090118050637090988">View the original post and full prompt →</a></p>
-
-These samples demonstrate the 014 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
-
-> FOLD AND FACET · LAYER AND NEST · SOURCE-LED WEIGHT · REAL PAPER FIBRE · READABLE PAPER TYPE
-
-XXD Panel 014 is an image-generation Skill for Codex and compatible agents. It preserves identity, silhouette, pose, and narrative relation, then rebuilds the source as recognisable contemporary paper sculpture through folds, cut facets, layering, nesting, occlusion, and joined paper pieces.
-
-Composition follows the photograph's centre of gravity, contour trajectory, mass ratio, and action direction instead of a fixed centre. Source colour becomes a coordinated vivid paper group; soft diffuse light makes fibre, creases, cut edges, thickness, layer separation, and natural shadows physically convincing. The main title is folded or cut paper and participates in the spatial construction.
-
-<!-- xxd-human-intro:start -->
 ## Where this Panel fits — and what it solves
 
 When a photograph needs to become a poster, cover, social asset, or wallpaper, the real design problem is rarely a simple change of style. The challenge is to redesign it while preserving identity, key relationships, mood, and recognisability.
