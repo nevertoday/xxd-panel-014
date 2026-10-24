@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 014｜Paper Relief Journal: rebuilds the subject of a photo as a tactile contemporary folded-paper sculpture and paper-cut collage — folds, facets, layers, nesting and joined paper pieces that keep it instantly recognisable — composed off-centre around its own weight and direction with wide whitespace, in a vivid but harmonious set of paper colours drawn from the photo on a cream, light grey or soft pastel ground, lit by soft diffused light that shows paper fibre, creases, cut edges, thickness and natural shadows, with a short title built from folded paper strips that arcs, runs along an axis or hugs the form, plus a few tiny editorial notes. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-014 or asks for folded-paper sculpture, origami relief or paper-cut collage from a photo.",
+  "short_description": "纸艺浮雕志：把照片重构成看得见折痕、切边和纸纤维的当代折纸雕塑",
+  "zh-CN": {
+    "name": "纸艺浮雕志",
+    "tagline": "把照片重构成一件看得见折痕、切边和纸纤维的当代折纸雕塑。",
+    "look": "主体用折叠、切面、层叠、嵌套和纸片拼接重新概括，有清楚的几何结构和真实的手工体量，仍一眼认得出是谁。构图跟着主体自己的重心和走势排，可以偏心、局部裁切或向一侧延展，四周是大片留白，辅助纸片只做承托。颜色从照片里取最有辨识度的几种，转成协调又鲜明的纸张色组，背景是米白、浅灰或柔和粉彩；柔和漫射光照出纸纤维、折痕、切边、纸的厚度和自然阴影。主标题由折叠纸条拼成，可以拱形环绕或贴着轮廓，旁边只配几行极小的编辑小字。",
+    "traits": [
+      "折叠切面",
+      "层叠嵌套",
+      "纸纤维",
+      "立体纸艺",
+      "可读文字"
+    ],
+    "good": [
+      "轮廓和体块都清楚的主体：一只狐狸、一只鹤、一条鲸、一座塔",
+      "交通工具和建筑：一辆自行车、一艘帆船、一栋有屋檐的房子",
+      "植物和花：一盆龟背竹、一束郁金香"
+    ],
+    "poor": [
+      "需要认清五官和神态的人像，折纸会把脸概括成面块",
+      "细节极多的东西：蕾丝、电路板、密集的人群",
+      "想要光滑塑料 3D、CG 或儿童手工卡纸感的需求"
+    ]
+  },
+  "en": {
+    "name": "Paper Relief Journal",
+    "tagline": "Rebuilds a photo as a contemporary folded-paper sculpture where you can see creases, cut edges and paper fibre.",
+    "look": "The subject is re-formed through folds, facets, layers, nesting and joined paper pieces, with clear geometric structure and real handmade volume, and is still recognisable at a glance. The composition follows the subject's own weight and direction: off-centre, partly cropped or stretching to one side, with wide whitespace and supporting paper pieces that only hold it up. The most characteristic colours of the photo become a harmonious but vivid set of papers on a cream, light grey or soft pastel ground, and soft diffused light picks out the fibre, creases, cut edges, thickness and natural shadows. The main title is built from folded paper strips that arch around or follow the outline, with only a few tiny editorial notes beside it.",
+    "traits": [
+      "Folded facets",
+      "Layering and nesting",
+      "Paper fibre",
+      "Paper sculpture",
+      "Readable lettering"
+    ],
+    "good": [
+      "Subjects with a clear outline and mass: a fox, a crane, a whale, a tower",
+      "Vehicles and buildings: a bicycle, a sailing boat, a house with eaves",
+      "Plants and flowers: a monstera, a bunch of tulips"
+    ],
+    "poor": [
+      "Portraits where facial features and expression must be read, since folds turn a face into planes",
+      "Things packed with fine detail: lace, circuit boards, dense crowds",
+      "Requests for glossy plastic 3D, CG or a children's craft-card look"
+    ]
+  },
+  "ja": {
+    "name": "ペーパーレリーフ手帳",
+    "tagline": "写真を、折り目や切り口、紙の繊維まで見える現代の折り紙彫刻に組み直します。",
+    "look": "主役を折り、切り面、重ね、入れ子、紙片の継ぎ合わせで作り直し、はっきりした幾何学的な構造と本物の手仕事の量感を持たせつつ、一目でそれとわかるようにします。構図は主役自身の重心と流れに従い、片寄せたり、一部を切ったり、一方向へ伸ばしたりして、まわりに大きな余白をとり、補助の紙片は支えるだけです。写真のいちばん特徴的な色を、調和しつつ鮮やかな紙の色の組み合わせにし、地はクリーム、淡いグレー、やわらかなパステルです。やわらかな拡散光が紙の繊維、折り目、切り口、厚み、自然な影を浮かび上がらせます。メインのタイトルは折った紙の帯でつくり、アーチ状に囲んだり輪郭に沿わせたりし、横にはごく小さな編集的な文字を数行だけ添えます。",
+    "traits": [
+      "折りの切り面",
+      "重ねと入れ子",
+      "紙の繊維",
+      "立体ペーパーアート",
+      "読める文字"
+    ],
+    "good": [
+      "輪郭と量感のはっきりした主役：キツネ、鶴、クジラ、塔",
+      "乗り物や建物：自転車、帆船、軒のある家",
+      "植物や花：モンステラ、チューリップの花束"
+    ],
+    "poor": [
+      "顔立ちや表情を読み取りたい人物写真（折り紙では顔が面の集まりになります）",
+      "細部が非常に多いもの：レース、電子基板、密集した人混み",
+      "つるつるのプラスチック 3D、CG、子どもの工作のような厚紙感を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "종이 부조 저널",
+    "tagline": "사진을 접힌 자국과 자른 면, 종이 섬유까지 보이는 현대 종이접기 조각으로 다시 만듭니다.",
+    "look": "주인공을 접기, 자른 면, 겹침, 끼워 넣기, 종이 조각 잇기로 다시 빚어, 분명한 기하 구조와 진짜 손작업의 부피를 주면서도 한눈에 알아보게 합니다. 구도는 주인공 자체의 무게중심과 흐름을 따라 한쪽으로 치우치거나, 일부를 자르거나, 한 방향으로 뻗게 하고, 둘레에 넓은 여백을 두며 보조 종이 조각은 받쳐 주는 역할만 합니다. 사진에서 가장 특징적인 색을 조화로우면서도 선명한 종이 색 묶음으로 바꾸고, 바탕은 크림색, 연회색, 부드러운 파스텔입니다. 부드러운 확산광이 종이 섬유, 접힌 자국, 자른 면, 두께, 자연스러운 그림자를 드러냅니다. 메인 제목은 접은 종이 띠로 만들어 아치처럼 두르거나 윤곽을 따르게 하고, 옆에는 아주 작은 편집 글자 몇 줄만 둡니다.",
+    "traits": [
+      "접힌 면",
+      "겹침과 끼워 넣기",
+      "종이 섬유",
+      "입체 종이 공예",
+      "읽히는 글자"
+    ],
+    "good": [
+      "윤곽과 덩어리가 분명한 주인공: 여우, 학, 고래, 탑",
+      "탈것과 건물: 자전거, 돛단배, 처마가 있는 집",
+      "식물과 꽃: 몬스테라 화분, 튤립 다발"
+    ],
+    "poor": [
+      "이목구비와 표정을 읽어야 하는 인물 사진(종이접기는 얼굴을 면으로 단순화합니다)",
+      "세부가 아주 많은 것: 레이스, 회로 기판, 빽빽한 인파",
+      "매끈한 플라스틱 3D, CG, 아이들 공작용 판지 느낌을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "دفتر النقش الورقي البارز",
+    "tagline": "يعيد بناء الصورة منحوتةً معاصرة من الورق المطوي تظهر فيها الثنيات وحواف القص وألياف الورق.",
+    "look": "يُعاد تشكيل العنصر بالطيّ والأوجه المقطوعة والطبقات والتداخل ووصل قطع الورق، فتكون له بنية هندسية واضحة وحجم يدوي حقيقي، ويبقى معروفاً من النظرة الأولى. يتبع التكوين ثقل العنصر واتجاهه: منزاحاً عن المركز أو مقصوصاً جزئياً أو ممتداً إلى جهة، مع فراغ واسع، ولا تفعل قطع الورق المساعدة سوى أن تسنده. تتحول أوضح ألوان الصورة إلى مجموعة أوراق متناسقة وزاهية على أرضية كريمية أو رمادية فاتحة أو باستيل ناعم، ويكشف ضوء ناعم منتشر ألياف الورق وثنياته وحواف قصّه وسمكه وظلاله الطبيعية. يُبنى العنوان الرئيسي من شرائط ورق مطوية تلتف كقوس أو تتبع الحدود، ولا يرافقه إلا بضعة سطور تحريرية صغيرة جداً.",
+    "traits": [
+      "أوجه مطوية",
+      "طبقات وتداخل",
+      "ألياف الورق",
+      "نحت ورقي",
+      "كتابة مقروءة"
+    ],
+    "good": [
+      "عناصر واضحة الحدود والكتلة: ثعلب، كركي، حوت، برج",
+      "وسائل نقل ومبانٍ: دراجة، قارب شراعي، بيت بأفاريز",
+      "نباتات وزهور: نبتة مونستيرا، باقة توليب"
+    ],
+    "poor": [
+      "صور أشخاص يجب فيها قراءة الملامح والتعبير، فالطيّ يحوّل الوجه إلى مسطحات",
+      "أشياء مكتظة بالتفاصيل الدقيقة: الدانتيل، اللوحات الإلكترونية، الحشود الكثيفة",
+      "طلب مظهر بلاستيكي لامع ثلاثي الأبعاد أو رسوم حاسوبية أو ورق مقوّى كأشغال الأطفال"
+    ]
+  }
+}
